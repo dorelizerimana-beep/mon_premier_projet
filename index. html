@@ -1,2 +1,13 @@
-<h1>Bonjour, c'est dorel ! </h1>
-<p>ceci est mon premier site Web sur github. </p>
+<<html>
+<body style="background-color: lightblue; text-align: center; font-family: Arial;">
+
+<h1 style="color: darkblue;">Bonjour, c'est Dorel ! 👋</h1>
+
+<p style="font-size: 20px;">Bienvenue sur mon premier site web !</p>
+
+<button style="background-color: green; color: white; padding: 15px; font-size: 18px; border: none;">Clique-moi !</button>
+
+<p>Merci GitHub !</p>
+
+</body>
+</html> 
